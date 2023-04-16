@@ -1,3 +1,7 @@
+const appSettings = {
+  databaseURL: "https://addtocart-19974-default-rtdb.firebaseio.com/",
+};
+
 const inputFieldElement = document.getElementById("input-field");
 const addButtonElement = document.getElementById("add-button");
 
